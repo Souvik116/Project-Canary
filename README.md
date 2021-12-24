@@ -17,3 +17,5 @@ There are several puzzle mechanics that the player must understand and master in
 - Chintan Basrani 18BCG10031
 - Simoni Agarwal 18BCG10088
 - Souvik Maity 18BCG10090
+
+**`Guide`**: Dr. Kannan Shanmugam
