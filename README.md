@@ -12,7 +12,6 @@ The story will be a sort of an allegory suiting a general casual audience as wel
 There are several puzzle mechanics that the player must understand and master in order to get to the end of McKee’s trail and find answers to the questions that he is so desperately seeking.
 
 ## Team Members
-- Abirbhav Goswami 18BCG10004
 - Ayush Patra 18BCG10028
 - Chintan Basrani 18BCG10031
 - Simoni Agarwal 18BCG10088
