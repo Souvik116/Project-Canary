@@ -11,7 +11,7 @@ Project Canary’s story is furnished with brain-racking puzzle and an ample ser
 The story will be a sort of an allegory suiting a general casual audience as well as a lore-centric, mesmerized audience.
 There are several puzzle mechanics that the player must understand and master in order to get to the end of McKee’s trail and find answers to the questions that he is so desperately seeking.
 
-**`Demo Link:` ** https://youtu.be/BUeqKKHGdlY
+**`Demo Link`** https://youtu.be/BUeqKKHGdlY
 
 ## Team Members
 - Ayush Patra 18BCG10028
@@ -19,4 +19,4 @@ There are several puzzle mechanics that the player must understand and master in
 - Simoni Agarwal 18BCG10088
 - Souvik Maity 18BCG10090
 
-**`Guide : `** Dr. Kannan Shanmugam
+**`Guide`** Dr. Kannan Shanmugam
